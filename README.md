@@ -1,4 +1,4 @@
-<h3 align="center">I am Mohammad Ali. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter.</h3>
+<h3 align="center">I am Mohammad Ali. I'm currently working on Mobile Application Development. As mobile app devleoper I use Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=defenshahria&label=Profile%20views&color=0e75b6&style=flat" alt="defenshahria" /> </p>
 
